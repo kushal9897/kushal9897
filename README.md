@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...<h1 align="center">Hey there 👋, I'm Kushal Agrawal</h1>
 
 <h2 align="center">🚀 About Me</h2>
