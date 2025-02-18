@@ -1,16 +1,12 @@
 ## Hi there 👋
 
 
-**kushal9897/kushal9897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ...<h1 align="center">Hey there 👋, I'm Kushal Agrawal</h1>
 
 <h2 align="center">🚀 About Me</h2>
 <p>
     🎓 <b>B.Tech in Computer Science</b> | Expected May 2026<br>
-    🌱 <b>Currently Learning:</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
+    🌱 <b>Currently DevOps Engineer at ByteEdu Tech:</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
     ✍️ <b>Tech Blogger:</b> Cloud-Native tech, DevOps, open-source contributions<br>
     🧩 <b>Fun Fact:</b> Obsessed with automation – the fewer manual steps, the better! 😄
 </p>
