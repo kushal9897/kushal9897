@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-- 🌱 I’m currently DevOps Engineer ...<h1 align="center">Hey there 👋, I'm Kushal Agrawal</h1>
+<h1 align="center">Hey there 👋, I'm Kushal Agrawal</h1>
 
 <h2 align="center">🚀 About Me</h2>
 <p>
