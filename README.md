@@ -2,8 +2,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p>
-    🎓 <b>B.Tech in Computer Science</b> | Expected May 2026<br>
-    🌱 <b>Currently DevOps Engineer at ByteEdu Tech:</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
+    🎓 <b>B.Tech in Computer Science</b> | Expected April 2026<br>
+    🌱 <b>Currently DevOps Engineer at Hanay Technologies :</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
     ✍️ <b>Tech Blogger:</b> Cloud-Native tech, DevOps, open-source contributions<br>
     🧩 <b>Fun Fact:</b> Obsessed with automation – the fewer manual steps, the better! 😄
 </p>
