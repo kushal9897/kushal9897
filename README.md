@@ -3,7 +3,7 @@
 <h2 align="center">🚀 About Me</h2>
 <p>
     🎓 <b>B.Tech in Computer Science</b> | Expected April 2026<br>
-    🌱 <b>Currently DevOps Engineer at Hanay Technologies :</b> Advanced Go, Cloud Infrastructure, DevOps best practices<br>
+    🌱 <b>Currently DevOps Engineer at Hanay Technologies:</b> Go, Cloud Infrastructure, DevOps, IAM, and Security<br>
     ✍️ <b>Tech Blogger:</b> Cloud-Native tech, DevOps, open-source contributions<br>
     🧩 <b>Fun Fact:</b> Obsessed with automation – the fewer manual steps, the better! 😄
 </p>
@@ -36,12 +36,36 @@
     <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault">
 </p>
 
+<h3>🔐 Security, IAM & Secrets</h3>
+<p>
+    <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault">
+    <img src="https://img.shields.io/badge/Infisical-161616?style=for-the-badge&logoColor=white" alt="Infisical">
+    <img src="https://img.shields.io/badge/Wiz-1C1C1C?style=for-the-badge&logoColor=white" alt="Wiz">
+    <img src="https://img.shields.io/badge/OIDC-4A154B?style=for-the-badge&logoColor=white" alt="OIDC">
+    <img src="https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=for-the-badge&logoColor=white" alt="OAuth 2.0">
+    <img src="https://img.shields.io/badge/SAML-FF6F00?style=for-the-badge&logoColor=white" alt="SAML">
+    <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+</p>
+
+
+<h3>📊 Monitoring & Observability</h3>
+<p>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog">
+    <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack">
+    <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor">
+</p>
+
 <h3>🛠️ Tools & Platforms</h3>
-<div>
+<p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://img.shields.io/badge/Bazel-43B02A?style=for-the-badge&logo=bazel&logoColor=white" alt="Bazel">
+    <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white" alt="Make">
+</p>
 
 <h2 align="center">✍️ Blog Zone: Sharing is Caring!</h2>
 <p>
