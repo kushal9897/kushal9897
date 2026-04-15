@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/ArgoCD-FF5630?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault">
 </p>
 
 <h3>🛠️ Tools & Platforms</h3>
